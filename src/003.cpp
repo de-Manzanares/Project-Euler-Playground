@@ -1,7 +1,7 @@
+// https://projecteuler.net/problem=3
+
 #include <cmath>
 #include <iostream>
-
-// 600851475143
 
 int main() {
   double i{2};
